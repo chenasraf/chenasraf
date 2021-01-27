@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### I am a freelance App & Web developer; I make fully fledged, production-ready systems for start-ups and businesses
+#### I am a freelance App & Web developer; I make fully fledged, production-ready systems for start-ups and businesses.
+##### Contact me for availability at contact@casraf.com
 
 ---
 
