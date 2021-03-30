@@ -7,6 +7,7 @@
 
 - 💻 In my personal time, I'm working on [Dungeon Paper][dungeon-paper], a free [Android][dungeon-paper-android]/[iOS][dungeon-paper-ios] app for [Dungeon World][dungeon-world] players and DMs
 - 🥋 Check out my repositories for some more of my open source projects
+- 💭 My dream is to make my own game development studio, and make a successful and fun game - my passion project 🎮
 - 💪🏼 I’m proficient in TypeScript, React, Flutter/Dart, and I love trying out new technologies and languages.
 - 👌🏼 I'm also familiar with Python, Vue, and fiddle with Ruby, Node.js, and many others
 - 👯 I’m looking to collaborate on cool open source projects :)
