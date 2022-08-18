@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chen Asraf</h1>
 
 <h3 align="center">I make fully fledged, production-ready systems for start-ups and businesses. Also apps & others as hobbies :)</h3>
-<h3 align="center">Contact me for availability at <a href="mailto:contact@casraf.com">contact@casraf.com</a></h3>
+<h3 align="center">Contact me for availability at <a href="mailto:contact@casraf.dev">contact@casraf.dev</a></h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=chenasraf&label=Profile%20views&color=0e75b6&style=flat" alt="chenasraf" /> </p> -->
 
@@ -80,4 +80,4 @@ I do my best to create useful programs, apps, and tools; and support open source
 [dungeon-paper-android]: https://bit.ly/DungeonPaper-Android
 [dungeon-paper-ios]: https://bit.ly/DungeonPaper-iOS
 [dungeon-world]: https://dungeon-world.com
-[blog]: https://casraf.blog
+[blog]: https://casraf.dev
