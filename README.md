@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chen Asraf</h1>
+<h1 align="center">Hi 👋, I'm Chen Asraf 🇮🇱</h1>
 
 <h3 align="center">I make fully fledged, production-ready systems for start-ups and businesses. Also apps & others as hobbies :)</h3>
 <h3 align="center">Contact me for availability at <a href="mailto:contact@casraf.dev">contact@casraf.dev</a></h3>
