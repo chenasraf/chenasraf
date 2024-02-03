@@ -26,6 +26,36 @@ I do my best to create useful programs, apps, and tools; and support open source
 - 👌🏼 I'm also familiar with Python, Vue, and fiddle with Ruby, Node.js, and many others
 - 👯 I’m looking to collaborate on cool open source projects :)
 
+<h3 align="center">Projects</h3>
+<h4 align="center">Because you can only have 6 pins.</h4>
+
+##### NPM
+
+- [Simple Scaffold](https://chenasraf.github.io/simple-scaffold) - Generate any file structure - from single components to entire app boilerplates, with a single command.
+- [Massarg](https://chenasraf.github.io/massarg) - Flexible, powerful, and simple command/argument parser for CLI applications
+
+##### Dart/Flutter
+
+- [Script Runner](https://pub.dev/packages/script_runner) - Run all your project-related scripts in a portable, simple config.
+- [Unaconfig](https://pub.dev/packages/unaconfig) - Load your user's config files for your package easily, from multiple sources & formats. Like [cosmiconfig](https://www.npmjs.com/package/cosmiconfig), but for Dart!
+- [CTelnet](https://pub.dev/packages/ctelnet) - A simple Telnet client for Dart/Flutter, parse incoming and outgoing data easily and quickly.
+- [btool](https://pub.dev/packages/btool) - Generic build helper tools for Flutter/Dart such as manipulating version, package name or application ID
+- [Wheel Spinner](https://pub.dev/packages/wheel_spinner) - A simple Flutter widget for updating a number using a pitch bender-like spinner
+- [Mudblock](https://github.com/chenasraf/mudblock) - An MUD client for mobile & desktop
+
+##### Neovim
+
+- [text-transform.nvim](https://github.com/chenasraf/text-transform.nvim) - Common text transformers for nvim - switch between camelCase, PascalCase, snake_case, and more!
+
+#### Rust
+
+- [tblf](https://github.com/chenasraf/tblf) - Turns any CLI output lines into tables.
+
+##### Go
+
+- [GI Gen](https://github.com/chenasraf/gi_gen) - Gitignore generator for any type of project
+
+
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
