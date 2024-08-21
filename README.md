@@ -26,7 +26,9 @@ I do my best to create useful programs, apps, and tools; and support open source
 - 👌🏼 I'm also familiar with Python, Vue, and fiddle with Ruby, Node.js, and many others
 - 👯 I’m looking to collaborate on cool open source projects :)
 
-<h3 align="center">Projects</h3>
+<details>
+
+<summary><h3>Notable Projects (click to toggle)</h3></summary>
 <h4 align="center">Because you can only have 6 pins.</h4>
 
 ##### NPM
@@ -61,8 +63,10 @@ I do my best to create useful programs, apps, and tools; and support open source
 
 - [GI Gen](https://github.com/chenasraf/gi_gen) - Gitignore generator for any type of project
 
+</details>
 
-<h3 align="center">GitHub Stats</h3>
+<details>
+    <summary><h3>GitHub Stats</h3></summary>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenasraf&show_icons=true&locale=en&layout=compact" alt="chenasraf" /></a>
@@ -70,14 +74,18 @@ I do my best to create useful programs, apps, and tools; and support open source
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=chenasraf&theme=nord&column=3" alt="chenasraf" /></a>
 </p>
 
-<h3 align="left">Find me elsewhere:</h3>
+</details>
+
+<details>
+    <summary><h3>Social Profile</h3></summary>
+
 <p align="left">
-<a href="https://codepen.io/chenasraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chenasraf" height="30" width="40" /></a>
-<a href="https://twitter.com/casrafdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="casrafy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chenasraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chenasraf" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/280143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="280143" height="30" width="40" /></a>
-<a href="https://fb.com/casraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chenasraf" height="30" width="40" /></a>
-<a href="https://instagram.com/casraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="casraf" height="30" width="40" /></a>
+    <a href="https://codepen.io/chenasraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chenasraf" height="30" width="40" /></a>
+    <a href="https://twitter.com/casrafdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="casrafy" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/chenasraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chenasraf" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/280143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="280143" height="30" width="40" /></a>
+    <a href="https://fb.com/casraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chenasraf" height="30" width="40" /></a>
+    <a href="https://instagram.com/casraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="casraf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">I mostly use:</h3>
@@ -110,6 +118,8 @@ I do my best to create useful programs, apps, and tools; and support open source
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
 </p>
+
+</details>
 
 [dungeon-paper]: https://github.com/DungeonPaper/dungeon-paper-app
 [dungeon-paper-android]: https://bit.ly/DungeonPaper-Android
