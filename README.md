@@ -19,13 +19,42 @@
 
 ## ✨ About Me
 
+- 🥫 Creator of [Nextcloud Pantry][nextcloud-pantry] – Pantry for Nextcloud to manage your household lists, photos & notes, with a [Flutter companion app][pantry-flutter]
 - 🧙‍♂️ Creator of [Dungeon Paper][dungeon-paper] – a free [Android][dungeon-paper-android]/[iOS][dungeon-paper-ios] companion app for Dungeon World players and DMs
 - 💻 I love building fun and useful tools—check out my projects below!
 - 🎮 My dream is to run a game dev studio and create a hit indie game
-- 🧠 Languages/Frameworks I know well: TypeScript, React, Dart/Flutter, Node.js
-- 🧪 Languages/Frameworks I mess around with: Python, Vue, Ruby, and friends
+- 🧠 Languages/Frameworks I know well: TypeScript, React, Vue, Node.js, Go, PHP, Dart/Flutter
+- 🧪 Languages/Frameworks I mess around with: Python, Ruby, and friends
 - 📝 I occasionally write dev posts and tech notes on [my blog][blog]
 - 🤝 Open to cool open-source collabs, side projects, or consulting gigs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=chenasraf&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Chen's GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chenasraf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chenasraf/nextcloud-pantry">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chenasraf&repo=nextcloud-pantry&theme=tokyonight&hide_border=true" alt="nextcloud-pantry" height="140" />
+  </a>
+  <a href="https://github.com/chenasraf/simple-scaffold">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=chenasraf&repo=simple-scaffold&theme=tokyonight&hide_border=true" alt="simple-scaffold" height="140" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chenasraf&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -33,6 +62,7 @@
 <summary><h3>🚀 Featured Projects</h3></summary>
 
 * [Dungeon Paper](https://github.com/DungeonPaper/dungeon-paper-app) – A smart and stylish character sheet app for Dungeon World, made with Flutter
+* [nextcloud-pantry](https://github.com/chenasraf/nextcloud-pantry) – Manage your whole household in Nextcloud: lists, photos and notes, all in one place
 * [simple-scaffold](https://github.com/chenasraf/simple-scaffold) – Instantly scaffold any file or project structure from a simple config
 * [sofmani](https://github.com/chenasraf/sofmani) – Declarative system setup tool that installs your software and configs in one go
 * [dotfiles](https://github.com/chenasraf/dotfiles) – My personal Zsh, Neovim, tmux, and tools setup (warning: sharp edges inside ⚠️)
@@ -42,14 +72,16 @@
 <details>
 <summary><h3>🧩 Nextcloud Apps</h3></summary>
 
-* [nextcloud-autocurrency](https://github.com/chenasraf/nextcloud-autocurrency) – Auto-updates currency rates for your Cospend projects, so you don’t have to
-* [nextcloud-jukebox](https://github.com/chenasraf/nextcloud-jukebox) – A media jukebox for Nextcloud: music, podcasts, radio, audiobooks & more
+* [nextcloud-pantry](https://github.com/chenasraf/nextcloud-pantry) – Manage your whole household in Nextcloud: lists, photos and notes, all in one place
+* [nextcloud-forum](https://github.com/chenasraf/nextcloud-forum) – A community-driven forum built right into your Nextcloud instance
+* [nextcloud-autocurrency](https://github.com/chenasraf/nextcloud-autocurrency) – Auto-updates currency rates for your Cospend projects, so you don't have to
 
 </details>
 
 <details>
 <summary><h3>🧠 Neovim Plugins</h3></summary>
 
+* [input-form.nvim](https://github.com/chenasraf/input-form.nvim) – Navigable, structured form inputs to collect rich input from your plugin's users
 * [text-transform.nvim](https://github.com/chenasraf/text-transform.nvim) – Instantly switch between camelCase, snake_case, PascalCase, and more
 
 </details>
@@ -59,24 +91,16 @@
 
 * [direnv-dotenvx](https://github.com/chenasraf/direnv-dotenvx) – Load encrypted `.env` files with auto-variable detection using direnv + dotenvx
 * [git-open](https://github.com/chenasraf/git-open) – Open repos, branches, commits, or PRs directly from your terminal
-* [terminal_color_parser_dart](https://github.com/chenasraf/terminal_color_parser_dart) – Convert ANSI/xterm256 terminal colors to other formats
 * [github-repos-astro-loader](https://github.com/chenasraf/github-repos-astro-loader) – Fetch and use GitHub repo data inside Astro sites
-* [adb-record-tool](https://github.com/chenasraf/adb-record-tool) – Record and compress screen captures from Android or WearOS devices
 
 </details>
 
 <details>
 <summary><h3>📱 Flutter & Dart</h3></summary>
 
+* [pantry-flutter](https://github.com/chenasraf/pantry-flutter) – Flutter companion app for Nextcloud Pantry: household lists, photos & notes on the go
 * [flame_ui](https://github.com/chenasraf/flame_ui) – UI component library for Flame (Flutter game engine)
 * [playpet_wearos](https://github.com/chenasraf/playpet_wearos) – Virtual pet game built for circular smartwatch screens (Wear OS)
-
-</details>
-
-<details>
-<summary><h3>🌐 Web & Frontend Tools</h3></summary>
-
-* [templates](https://github.com/chenasraf/templates) – My personal collection of project templates for `simple-scaffold`
 
 </details>
 
@@ -85,39 +109,28 @@
 
 * [homebrew-tap](https://github.com/chenasraf/homebrew-tap) – Custom Homebrew formulae for my tools
 * [venom](https://github.com/chenasraf/venom) – Discord bot built for the Creation Asylum community
-* [aardwolf](https://github.com/chenasraf/aardwolf) – Plugins and snippets for Aardwolf MUD and MUSHClient
 
 </details>
 
 ---
 
 <details>
-<summary><h3>📊 GitHub Stats</h3></summary>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenasraf&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=chenasraf&theme=nord&column=3" alt="GitHub Trophies" /></a>
-</p>
-
-</details>
-
-<details>
 <summary><h3>📡 Social Links</h3></summary>
 
 - 🌐 [casraf.dev](https://casraf.dev)
 - 💼 [LinkedIn](https://linkedin.com/in/chenasraf)
+- 🐘 [Fosstodon](https://fosstodon.org/@chenasraf)
 - 💬 [Stack Overflow](https://stackoverflow.com/users/280143)
 - 🎨 [CodePen](https://codepen.io/chenasraf)
-- 📸 [Instagram](https://instagram.com/casraf)
-- 👤 [Facebook](https://fb.com/casraf)
 
 <!-- - 🐦 [@kumo_gami](https://twitter.com/kumo_gami) -->
 </details>
 
 
-[dungeon-paper]: https://github.com/DungeonPaper/dungeon-paper-app  
-[dungeon-paper-android]: https://bit.ly/DungeonPaper-Android  
-[dungeon-paper-ios]: https://bit.ly/DungeonPaper-iOS  
-[dungeon-world]: https://dungeon-world.com  
+[dungeon-paper]: https://github.com/DungeonPaper/dungeon-paper-app
+[dungeon-paper-android]: https://bit.ly/DungeonPaper-Android
+[dungeon-paper-ios]: https://bit.ly/DungeonPaper-iOS
+[dungeon-world]: https://dungeon-world.com
+[nextcloud-pantry]: https://github.com/chenasraf/nextcloud-pantry
+[pantry-flutter]: https://github.com/chenasraf/pantry-flutter
 [blog]: https://casraf.dev
