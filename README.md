@@ -100,7 +100,6 @@
 
 * [pantry-flutter](https://github.com/chenasraf/pantry-flutter) – Flutter companion app for Nextcloud Pantry: household lists, photos & notes on the go
 * [flame_ui](https://github.com/chenasraf/flame_ui) – UI component library for Flame (Flutter game engine)
-* [playpet_wearos](https://github.com/chenasraf/playpet_wearos) – Virtual pet game built for circular smartwatch screens (Wear OS)
 
 </details>
 
